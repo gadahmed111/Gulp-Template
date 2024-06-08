@@ -13,3 +13,5 @@ ____
 - Adding Font Awesome 6 files to the project files in the latest version v6.5.2
 
 - The file is under development and will be updated in the future
+
+### when download thre repo write - npm i 
